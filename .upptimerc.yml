@@ -1,31 +1,106 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ouvidor-digital # Your GitHub username
+repo: status-page # Your GitHub repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Portal
+    url: https://portal.ouvidordigital.com.br
+  - name: API - Ouvidor Digital
+    url: $OD_API_URL
+  - name: Sites dos Canais
+    url: https://ouvidordigital.com.br/od
+  - name: Portal do Denunciante
+    url: https://canal.ouvidordigital.com.br/od/form
+#  - name: Broken Site
+#    url: https://thissitedoesnotexist.com
+#  - name: Secret Site
+#   url: $SECRET_SITE
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  # cname: status.ouvidordigital.com.br
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  baseUrl: /status-page
+  # logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
+  logoUrl: https://od-check-protocol.web.app/images/logo.png
+  name: Ouvidor Digital
+  # introTitle: "**Ouvidor Digital** fortalece a cultura ética nas organizações"
+  introTitle: ""
+  introMessage: Página de disponibilidade dos serviços do [Ouvidor Digital](https://ouvidordigital.com) em **tempo real**.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Site
+      href: https://ouvidordigital.com
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
+
+i18n:
+  url: "URL"
+  status: "Status"
+  history: "Histórico"
+  up: "🟩 OK"
+  degraded: "🟨 Instável"
+  down: "🟥 Indisponível"
+  responseTimeGraphAlt: "Gráfico de tempo de resposta"
+  responseTime: "Tempo de resposta"
+  responseTimeDay: "Tempo de resposta em 24 horas"
+  responseTimeWeek: "Tempo de resposta em 7 dias"
+  responseTimeMonth: "Tempo de resposta em 30 dias"
+  responseTimeYear: "Tempo de resposta em 1 ano"
+  uptime: "Tempo de disponibilidade"
+  uptimeDay: "Disponibilidade em 24 horas"
+  uptimeWeek: "Disponibilidade em 7 dias"
+  uptimeMonth: "Disponibilidade em 30 dias"
+  uptimeYear: "Disponibilidade em 1 ano"
+  liveStatus: "Status em tempo real"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "Todos os sistemas estão funcionando corretamente"
+  degradedPerformance: "Instabilidade identificada"
+  completeOutage: "Indisponibilidade total"
+  partialOutage: "Indisponibilidade parcial"
+  activeIncidents: Incidentes Ativos
+  incidentReport: "Relatório do Incidente #$NUMBER →"
+  activeIncidentSummary: Aberto em $DATE com $POSTS postagens
+  incidentTitle: Detalhes do Incidente $NUMBER
+  incidentDetails: Detalhes do Incidente
+  incidentFixed: Corrigido
+  incidentOngoing: Em andmento
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentSubscribe: Assine para receber atualizações
+  incidentViewOnGitHub: Ver no GitHub
+  incidentCommentSummary: Publicado em $DATE por $AUTHOR
+  incidentBack: ← Voltar para todos os incidentes
+  pastIncidents: Incidentes Anteriores
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS postagens
+  overallUptime: "Tempo geral de funcionamento: $UPTIME"
+  overallUptimeTitle: Tempo geral de funcionamento
+  averageResponseTime: "Tempo médio de resposta: $TIMEms"
+  averageResponseTimeTitle: Tempo médio de resposta
+  sevelDayResponseTime: Tempo de resposta em 7-dias
+  responseTimeMs: Tempo de resposta (ms)
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  footer: Todos os direitos reservados - [Ouvidor Digital](https://ouvidoridigital.com)
+  rateLimitExceededTitle: Rate limit exceedeed
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: Ocorreu um erro
+  errorIntro: Ocorreu um erro ao tentar buscar os detalhes do último status.
+  errorText: Tente novamente em alguns minutos.
+  errorHome: Voltar para Home
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
