@@ -40,9 +40,9 @@
     "url": "https://ouvidordigital.com.br/od",
     "icon": "https://favicons.githubusercontent.com/ouvidordigital.com.br",
     "slug": "sites-dos-canais",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 453,
     "timeMonth": 474,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-22": 0
+    }
   },
   {
     "name": "Portal do Denunciante",
