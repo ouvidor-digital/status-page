@@ -4,19 +4,19 @@
     "url": "https://portal.ouvidordigital.com.br",
     "icon": "https://favicons.githubusercontent.com/portal.ouvidordigital.com.br",
     "slug": "portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 240,
-    "timeWeek": 255,
-    "timeMonth": 243,
-    "timeYear": 215,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 216,
+    "timeDay": 287,
+    "timeWeek": 265,
+    "timeMonth": 245,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2021-09-25": 0
+      "2021-09-25": 20
     }
   },
   {
