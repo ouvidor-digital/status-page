@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 161,
-    "timeWeek": 179,
-    "timeMonth": 232,
+    "timeDay": 111,
+    "timeWeek": 175,
+    "timeMonth": 221,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2021-09-25": 20
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 67,
-    "timeWeek": 91,
+    "timeDay": 163,
+    "timeWeek": 90,
     "timeMonth": 111,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/ouvidordigital.com.br",
     "slug": "sites-dos-canais",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 170,
-    "timeWeek": 255,
-    "timeMonth": 418,
+    "timeDay": 421,
+    "timeWeek": 249,
+    "timeMonth": 410,
     "timeYear": 441,
-    "dailyMinutesDown": {
-      "2021-09-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal do Denunciante",
@@ -63,19 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/canal.ouvidordigital.com.br",
     "slug": "portal-do-denunciante",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1043,
-    "timeDay": 682,
-    "timeWeek": 770,
-    "timeMonth": 704,
-    "timeYear": 1043,
-    "dailyMinutesDown": {
-      "2021-10-01": 12,
-      "2021-09-02": 11
-    }
+    "uptimeYear": "100.00%",
+    "time": 1039,
+    "timeDay": 548,
+    "timeWeek": 737,
+    "timeMonth": 697,
+    "timeYear": 1039,
+    "dailyMinutesDown": {}
   }
 ]
