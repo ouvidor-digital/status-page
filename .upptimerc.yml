@@ -19,7 +19,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.ouvidordigital.com.br
+  cname: status.ouvidor.digital
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status-page
   # logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
