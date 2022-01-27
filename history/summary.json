@@ -42,11 +42,11 @@
     "url": "https://ouvidordigital.com.br/od",
     "icon": "https://favicons.githubusercontent.com/ouvidordigital.com.br",
     "slug": "sites-dos-canais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 441,
     "timeDay": 566,
@@ -54,7 +54,7 @@
     "timeMonth": 427,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-01-27": 37
+      "2022-01-27": 24
     }
   },
   {
