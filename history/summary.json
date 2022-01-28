@@ -44,9 +44,9 @@
     "slug": "sites-dos-canais",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 437,
     "timeDay": 291,
@@ -54,7 +54,7 @@
     "timeMonth": 409,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-01-27": 38
+      "2022-01-27": 24
     }
   },
   {
