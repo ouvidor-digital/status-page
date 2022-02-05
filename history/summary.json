@@ -62,18 +62,19 @@
     "url": "https://canal.ouvidordigital.com.br/od/form",
     "icon": "https://favicons.githubusercontent.com/canal.ouvidordigital.com.br",
     "slug": "portal-do-denunciante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 922,
-    "timeDay": 614,
-    "timeWeek": 722,
-    "timeMonth": 929,
-    "timeYear": 922,
+    "time": 920,
+    "timeDay": 499,
+    "timeWeek": 680,
+    "timeMonth": 912,
+    "timeYear": 920,
     "dailyMinutesDown": {
+      "2022-02-05": 0,
       "2021-12-15": 35
     }
   }
