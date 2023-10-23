@@ -22,19 +22,19 @@
     "url": "$OD_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-ouvidor-digital",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 103,
-    "timeWeek": 107,
-    "timeMonth": 322,
+    "timeDay": 106,
+    "timeWeek": 108,
+    "timeMonth": 315,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-10-23": 24
+      "2023-10-23": 33
     }
   },
   {
