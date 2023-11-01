@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 232,
+    "timeDay": 200,
     "timeWeek": 210,
-    "timeMonth": 199,
+    "timeMonth": 201,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 104,
-    "timeWeek": 110,
-    "timeMonth": 311,
+    "timeDay": 117,
+    "timeWeek": 107,
+    "timeMonth": 313,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2023-10-23": 24
@@ -43,19 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/canal.ouvidordigital.com.br.ico",
     "slug": "sites-dos-canais",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 646,
-    "timeDay": 805,
-    "timeWeek": 846,
-    "timeMonth": 842,
-    "timeYear": 711,
+    "time": 648,
+    "timeDay": 1250,
+    "timeWeek": 851,
+    "timeMonth": 850,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2023-06-13": 76,
-      "2022-11-01": 429
+      "2023-06-13": 76
     }
   },
   {
@@ -69,15 +68,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 771,
-    "timeDay": 1352,
-    "timeWeek": 912,
-    "timeMonth": 875,
-    "timeYear": 619,
+    "time": 770,
+    "timeDay": 1864,
+    "timeWeek": 1108,
+    "timeMonth": 900,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2023-06-13": 75,
-      "2022-11-03": 29,
-      "2022-11-01": 468
+      "2022-11-03": 29
     }
   }
 ]
