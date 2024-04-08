@@ -9,9 +9,9 @@ sites:
   - name: API - Ouvidor Digital
     url: $OD_API_URL
   - name: Sites dos Canais
-    url: https://canal.ouvidordigital.com.br/od
+    url: https://canal.ouvidordigital.com.br/demonstracao_denuncia
   - name: Portal do Denunciante
-    url: https://canal.ouvidordigital.com.br/od/form
+    url: https://canal.ouvidordigital.com.br/demonstracao_denuncia/form
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
 #  - name: Secret Site
