@@ -1,7 +1,7 @@
 url: $OD_API_URL
-status: up
-code: 200
-responseTime: 95
-lastUpdated: 2024-09-17T23:00:23.981Z
+status: down
+code: 500
+responseTime: 19332
+lastUpdated: 2024-09-18T19:57:00.333Z
 startTime: 2021-06-28T15:19:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
