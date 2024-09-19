@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 140,
-    "timeWeek": 189,
-    "timeMonth": 210,
+    "timeDay": 168,
+    "timeWeek": 186,
+    "timeMonth": 209,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "api-ouvidor-digital",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 4914,
+    "timeDay": 4911,
     "timeWeek": 2042,
     "timeMonth": 680,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-09-18": 11,
       "2023-10-23": 24
     }
   },
@@ -49,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 745,
-    "timeDay": 478,
-    "timeWeek": 570,
-    "timeMonth": 706,
+    "time": 744,
+    "timeDay": 514,
+    "timeWeek": 568,
+    "timeMonth": 703,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2024-04-08": 29
@@ -70,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 782,
-    "timeDay": 470,
-    "timeWeek": 752,
-    "timeMonth": 625,
+    "timeDay": 477,
+    "timeWeek": 760,
+    "timeMonth": 627,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2024-04-08": 29
