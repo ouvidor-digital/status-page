@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 211,
-    "timeWeek": 222,
-    "timeMonth": 325,
-    "timeYear": 209,
+    "timeDay": 220,
+    "timeWeek": 218,
+    "timeMonth": 326,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "99.78%",
-    "time": 202,
-    "timeDay": 773,
-    "timeWeek": 570,
-    "timeMonth": 276,
-    "timeYear": 240,
+    "time": 203,
+    "timeDay": 829,
+    "timeWeek": 573,
+    "timeMonth": 298,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2025-03-25": 1043,
       "2025-03-24": 93
@@ -49,14 +49,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 671,
-    "timeDay": 559,
-    "timeWeek": 596,
-    "timeMonth": 564,
-    "timeYear": 627,
-    "dailyMinutesDown": {
-      "2024-04-08": 29
-    }
+    "time": 670,
+    "timeDay": 565,
+    "timeWeek": 588,
+    "timeMonth": 565,
+    "timeYear": 626,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal do Denunciante",
@@ -70,12 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 676,
-    "timeDay": 490,
-    "timeWeek": 509,
-    "timeMonth": 633,
+    "timeDay": 480,
+    "timeWeek": 499,
+    "timeMonth": 575,
     "timeYear": 607,
-    "dailyMinutesDown": {
-      "2024-04-08": 29
-    }
+    "dailyMinutesDown": {}
   }
 ]
