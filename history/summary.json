@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 226,
-    "timeWeek": 318,
-    "timeMonth": 239,
-    "timeYear": 222,
+    "timeDay": 231,
+    "timeWeek": 344,
+    "timeMonth": 240,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-ouvidor-digital",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 260,
-    "timeDay": 318,
-    "timeWeek": 398,
-    "timeMonth": 399,
-    "timeYear": 252,
+    "timeDay": 375,
+    "timeWeek": 397,
+    "timeMonth": 395,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-03-25": 1043,
       "2025-03-24": 93
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 534,
-    "timeWeek": 610,
-    "timeMonth": 613,
-    "timeYear": 611,
+    "time": 636,
+    "timeDay": 619,
+    "timeWeek": 621,
+    "timeMonth": 614,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 638,
-    "timeDay": 572,
-    "timeWeek": 693,
-    "timeMonth": 696,
-    "timeYear": 598,
+    "timeDay": 850,
+    "timeWeek": 734,
+    "timeMonth": 708,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   }
 ]
