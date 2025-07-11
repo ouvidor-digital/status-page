@@ -43,27 +43,29 @@
     "url": "https://canal.ouvidordigital.com.br/demonstracao_denuncia",
     "icon": "https://icons.duckduckgo.com/ip3/canal.ouvidordigital.com.br.ico",
     "slug": "sites-dos-canais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
+    "time": 630,
     "timeDay": 530,
     "timeWeek": 546,
     "timeMonth": 620,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Portal do Denunciante",
     "url": "https://canal.ouvidordigital.com.br/demonstracao_denuncia/form",
     "icon": "https://icons.duckduckgo.com/ip3/canal.ouvidordigital.com.br.ico",
     "slug": "portal-do-denunciante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,6 +74,8 @@
     "timeWeek": 569,
     "timeMonth": 708,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   }
 ]
