@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 227,
-    "timeWeek": 281,
-    "timeMonth": 256,
+    "timeDay": 163,
+    "timeWeek": 262,
+    "timeMonth": 255,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 264,
-    "timeDay": 327,
-    "timeWeek": 323,
-    "timeMonth": 385,
-    "timeYear": 258,
+    "time": 265,
+    "timeDay": 320,
+    "timeWeek": 326,
+    "timeMonth": 384,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-03-25": 1043,
       "2025-03-24": 93
@@ -45,18 +45,16 @@
     "slug": "sites-dos-canais",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 592,
-    "timeWeek": 560,
-    "timeMonth": 619,
-    "timeYear": 612,
-    "dailyMinutesDown": {
-      "2025-07-12": 9
-    }
+    "time": 627,
+    "timeDay": 543,
+    "timeWeek": 559,
+    "timeMonth": 614,
+    "timeYear": 611,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal do Denunciante",
@@ -65,17 +63,15 @@
     "slug": "portal-do-denunciante",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 564,
-    "timeWeek": 573,
+    "time": 630,
+    "timeDay": 519,
+    "timeWeek": 572,
     "timeMonth": 696,
     "timeYear": 602,
-    "dailyMinutesDown": {
-      "2025-07-12": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
