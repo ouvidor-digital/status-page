@@ -42,19 +42,20 @@
     "url": "https://canal.ouvidordigital.com.br/demonstracao_denuncia",
     "icon": "https://icons.duckduckgo.com/ip3/canal.ouvidordigital.com.br.ico",
     "slug": "sites-dos-canais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 1647,
-    "timeWeek": 1408,
-    "timeMonth": 1110,
-    "timeYear": 648,
+    "time": 640,
+    "timeDay": 1960,
+    "timeWeek": 1516,
+    "timeMonth": 1147,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2026-03-22": 17
+      "2026-03-22": 17,
+      "2026-10-13": 0
     }
   },
   {
